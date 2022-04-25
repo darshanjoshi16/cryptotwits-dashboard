@@ -15,5 +15,34 @@
       <li><strong><h3>Apex Charts</strong> : for deflecting the charts in the dashboard</h3></li>
       <li><strong><h3>Bootstrap Dark Mode</strong> : for the dark appearance of the dashboard</h3></li>
       <li><strong><h3>Coin Gecko API</strong> : for fetching the real time data regarding the crypto coins.</h3></li>
-    
-    
+ </ul>
+ </div>
+ 
+ <div>
+ <h2>Folder Structure </h2>
+ <img src="https://github.com/darshanjoshi16/cryptotwits-dashboard/blob/main/Snapshots/FolderStructure.png?raw=true" align="center" height="400" width="400">
+ </div>
+ 
+ <div>
+ <h2>SnapShots of Dashboard </h2>
+ <div>
+  <h3>Dashboard</h3>
+  <img src="https://github.com/darshanjoshi16/cryptotwits-dashboard/blob/main/Snapshots/Dashboard-Main.png?raw=true">
+ </div>
+ 
+ <div>
+  <h3>Coins in the dashboard</h3>
+  <img src="https://github.com/darshanjoshi16/cryptotwits-dashboard/blob/main/Snapshots/CoinList.png?raw=true">
+ </div>
+ 
+ <div>
+  <h3>Charts in the dashboard</h3>
+  <img src="https://github.com/darshanjoshi16/cryptotwits-dashboard/blob/main/Snapshots/Charts.png?raw=true">
+ </div>
+ 
+ <div>
+  <h3>Stats in the dashboard</h3>
+  <img src="https://github.com/darshanjoshi16/cryptotwits-dashboard/blob/main/Snapshots/Stats.png?raw=true">
+ </div>
+ 
+ 
